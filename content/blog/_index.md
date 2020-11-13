@@ -1,5 +1,5 @@
 ---
-title: "Latest News"
+title: "Blog"
 subtitle: ""
 # meta description
 description: "This is meta description"

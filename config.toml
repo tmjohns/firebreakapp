@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.firebreakapp.com/"
+baseURL = "https://firebreakapp.netlify.app/"
 title = "Firebreak"
 theme = "bigspring"
 languageName = "En"
@@ -50,7 +50,7 @@ weight = 2
 
 [[menu.main]]
 name = "Strategy"
-URL = "Strategy"
+URL = "strategy"
 weight = 3
 
 [[menu.main]]
@@ -60,43 +60,30 @@ weight = 4
 
 # footer menu left
 [[menu.footer_left]]
-name = "About Us"
+name = "Home"
 URL = "#"
 
 [[menu.footer_left]]
-name = "Quick Start"
-URL = "#"
-
-[[menu.footer_left]]
-name = "Pricing"
-URL = "pricing"
-
+name = "About"
+URL = "about"
 
 # footer menu middle
 [[menu.footer_middle]]
-name = "Pricing"
-URL = "pricing"
+name = "Blog"
+URL = "blog"
 
 [[menu.footer_middle]]
-name = "Platform"
-URL = "#"
-
-[[menu.footer_middle]]
-name = "Features"
-URL = "#"
+name = "Strategy"
+URL = "strategy"
 
 # footer menu right
 [[menu.footer_right]]
-name = "Privacy Policy"
-URL = "privacy-policy"
+name = "Credits"
+URL = "credits"
 
 [[menu.footer_right]]
-name = "Terms & Conditions"
-URL = "terms-conditions"
-
-[[menu.footer_right]]
-name = "FAQ"
-URL = "faq"
+name = "References"
+URL = "references"
 
 #################### default parameters ################################
 [params]
@@ -109,9 +96,9 @@ author = "Themefisher"
 contact_form_action = "#" # contact form works with https://formspree.io
 
 ########### footer content ##########
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
-footer_menu_right = "Support"
+#footer_menu_left = "Company"
+#footer_menu_middle = "Product"
+#footer_menu_right = "Support"
 footer_content = "Firebreak is an academic exercise in developing an innovation, prepared as coursework for the Grad. Certificate in IT (Executive) at UniMelb."
 # copyright
 copyright = "(c) 2020 by Tim Johns."
