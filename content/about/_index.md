@@ -10,8 +10,8 @@ Firebreak App is a one stop shop for managing your finances. A firebreak is a bu
 
 Open Banking is the first phase of the Australian 'Consumer Data Right'. Providers of banking services are required to build interfaces that allow other parties to securely access data. This includes information about the products and services they offer. With customer consent, it also includes access to account and transaction information. (Treasury, 2018)
 
+This video from the Australian Consumer and Competition Comission (ACCC, 2020b) explains more -
 {{< youtube id="nwJTSgICCSg" >}}
-(ACCC, 2020b)
 
 Firebreak App will be an accredited recipient of information under the 'Consumer Data Right' (ACCC, 2020). This will allow our app to make secure connections on your behalf and download all the information from your providers. From there, your data will live on your device for you to manage and analyse as you need. We'll make it as easy as we can. Our artificial-intelligence enabled classification engine will sort your transactions for you, helping you to understand where your money goes and set appropriate budgets and goals. 
 
