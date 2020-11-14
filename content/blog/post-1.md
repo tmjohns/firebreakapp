@@ -14,173 +14,36 @@ draft: false
 Firebreak is a new personal finance app. 
 
 
-Describe your innovation in the context of technology in general. 
-For instance, what is the current state of technology? 
-How will your innovation take advantage of current and future technologies? 
-Is your innovation creating or developing new technology?
-Discuss the benefits of your innovation in terms of a range of stakeholders. 
-Stakeholders may include employees in your company or industry, society as a whole, governments, specific industries, etc.
+## Introduction
 
-Word limit is 800 words.
+Over the last 15 years, rapid advances in technology has meant that smartphones are nearly ubiquitious. Mobile banking has become the predominant way for consumers to do their banking. 
 
+Many jurisdictions across the world have introduced regulations that see banks (and other providers) open up access to their data. In Australia, this is known as Open Banking, phase 1 of the Consumer Data Right (Treasury, 2018). This has intentionally created an opportunity for innovation to occur. Governments have invested in these open data initiatives to stimulate economic growth across technology, industry and finance. (Gozman et al. 2018)
 
+Firebreak App brings these two together to provide Australian consumers with a single app for managing their personal finances. Within the app, consumers will be able to view and analyse all their data. 
 
+## Context
 
-#### Heading example
+A key axiom of the consumer data right is that it 'should be implemented with security and privacy in mind' (Treasury, 2018). This is an important technological consideration. API's like Open Banking facilitate access, but also pose key security challenges to protect the security and integrity of the data (Mansfield Devine, 2016). Firebreak App will be built with security in mind. The guidelines for accreditation as a recipient of data specify the stringent security standards we need to meet (ACCC, 2020). 
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Firebreak App will also takes advantage of developments in Artifical Intelligence. We will develop a transaction classification model that can analyse transaction data, and group them into categories based on the attributes of the transaction. This takes the hard work out of budgeting. Advances in technology mean that we can now build and train this model on anonymized data, and deploy it with our app. When your device recieves your data, our model can classify your transactions, but your data does not need to come to us. Your privacy will be protected. 
 
-# Heading 1 
-<br>
+## Stakeholder Benefits
 
-## Heading 2 
+### Consumers
 
-<br>
+Today, a consumer must have the mobile app from each provider in order to see the information. Under the Consumer Data Right, they will be able to have one app that can connect to multiple providers, and pull the data into a format that suits them. Firebreak App offers a platform for consumers to do that. 
 
-### Heading 3 
+In additon to managing their information, our users will be able to view and compare product offers across providers. They will be able to make informed decisions about which banking products are right for them. 
 
-<br>
+Although promoted as a Consumer Data Right, some research has shown that many consumers are indifferent about Open Banking as a concept. (Dratva, 2020; 65). Firebreak App offers a practical demonstration of the value Open Banking can add for the consumer. 
 
-#### Heading 4 
+### Providers
 
-<br>
+Providers gain an additional channel to attract new business. The Consumer Data Right includes new API's to provide product information and offers. By providing quality products, targeted at consumers who understand their needs, they can attract and retain customers. With appropriate consents, the Open Banking data can be exchanged to support applications and make better credit decisions. 
 
-##### Heading 5 
+Providers will be challenged to remain relevant. As more consumers use apps like Firebreak, they will need to manage the risk of disintermediation. If users don't have to use the banks own app, they may lose the connection to the consumer. (Guibaud, 2015: 8)
 
-<br>
+## Conclusion
 
-###### Heading 6
-
-
-<hr>
-
-##### Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/blog/post-6.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+Firebreak App will take advantage of the opportunity presented by Open Banking and represents the next evolution of mobile banking. It meets consumer demands for easy and efficent ways to manage finances and will show consumers why the consumer data right is important to them. Our focus on security and privacy will set us apart from other platforms who seek to profit from data. 

@@ -14,7 +14,7 @@ feature:
   title : "Our Key Features."
   feature_item:
     # feature item loop
-    - name : "Get the whole picture."
+    - name : "Get the whole picture"
       icon : "ti-mobile"
       content : "With Firebreak, you can see all of your finances in one place. Set yourself up for success."
     # feature item loop
