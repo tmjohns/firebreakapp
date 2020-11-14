@@ -1,15 +1,29 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
+title: "Announcing Firebreak"
 date: 2020-04-18T10:07:21+06:00
 # post image
 image: "images/blog/post-1.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: "This is meta description"
-# post draft
+description: "A press release to announce Firebreak!"
+# post draft 
 draft: false
 ---
+
+Frebreak is a new personal finance app. 
+
+
+Describe your innovation in the context of technology in general. 
+For instance, what is the current state of technology? 
+How will your innovation take advantage of current and future technologies? 
+Is your innovation creating or developing new technology?
+Discuss the benefits of your innovation in terms of a range of stakeholders. 
+Stakeholders may include employees in your company or industry, society as a whole, governments, specific industries, etc.
+
+Word limit is 800 words.
+
+
 
 
 #### Heading example

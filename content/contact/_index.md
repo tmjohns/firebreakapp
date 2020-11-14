@@ -6,10 +6,12 @@ description: "This is meta description"
 draft: false
 ---
 
+### Join us while we're developing Firebreak!
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+Do you want to be a part of building the future of Personal Finance? 
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+Has your bank already launched their Open Banking API's? 
+
+Join our community as we build Firebreak together.
+
+* **Email: info@firebreakapp.com**
