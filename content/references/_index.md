@@ -10,7 +10,10 @@ draft: false
 
 Australian Competition and Consumer Commission (ACCC) (2018) 'Consumer Data Right: Project Overview' https://www.accc.gov.au/focus-areas/consumer-data-right-cdr-0
 
-Australian Competition and Consumer Commission (ACCC) (2020) 'Accreditation Guidelines' Australian Government. https://www.accc.gov.au/system/files/CDR%20-%20Accreditation%20guidelines_0.pdf
+Australian Competition and Consumer Commission (ACCC) (2020a) 'Accreditation Guidelines' Australian Government. https://www.accc.gov.au/system/files/CDR%20-%20Accreditation%20guidelines_0.pdf
+
+Australian Competition and Consumer Commission (ACCC) (2020b) 'Consumer Data Right: Overview' Youtube Video https://www.youtube.com/watch?v=nwJTSgICCSg
+
 
 Treasury (2018) 'Consumer Data Right: Overview' The Treasury, Australian Government. https://treasury.gov.au/sites/default/files/2019-09/190904_cdr_booklet.pdf
 
