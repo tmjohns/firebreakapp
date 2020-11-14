@@ -11,7 +11,7 @@ description: "A press release to announce Firebreak!"
 draft: false
 ---
 
-Frebreak is a new personal finance app. 
+Firebreak is a new personal finance app. 
 
 
 Describe your innovation in the context of technology in general. 
