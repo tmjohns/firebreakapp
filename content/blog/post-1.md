@@ -2,7 +2,7 @@
 title: "Announcing Firebreak"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/design.jpg"
+image: "images/design.png"
 # post type (regular/featured)
 type: "featured"
 # meta description
