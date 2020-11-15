@@ -100,11 +100,12 @@ The PESTLE framework allows for an impact analysis across 6 key domains.
 
 As Firebreak develops, we expect to need the following resources to operate effectively. 
 
-* Core App Development Squad (8 people across development, testing, leadership) - Responsbility across app development, UI/UX, APIs.
+* Core App Development Squad (8 people across development, testing, leadership) - Responsbility across app development, APIs.
 * Core Artificial Intelligence Squad (6 people across development, testing, squad leaderhip. - Using anonymised transaction data to produce an effective transaction classifier that can run on device. 
-* DevOps (2-4 people) - to establish quality development and operational practices and support our planned regular release cadence. 
-* IT Architect (1-2 people) - to provide leadership and set the direction for the underlying technologies we use.
-* Security Engineer (1-2 people) - to ensure we exceed the rigorous security standards we set for ourselves.
+* UI/UX Designers (1-2 people) - To produce user interface/user experience designs that deliver insights to our customers. 
+* DevOps (2-4 people) - To establish quality development and operational practices and support our planned regular release cadence. 
+* IT Architect (1-2 people) - To provide leadership and set the direction for the underlying technologies we use.
+* Security Engineer (1-2 people) - To ensure we exceed the rigorous security standards we set for ourselves.
 * Marketing, HR, Corporate Governance functions to support a team of between 30 and 40 people. 
 
 * Legal Consultant - We expect to need additional support and expertise to navigate the complex accreditation process for Open Banking. 
