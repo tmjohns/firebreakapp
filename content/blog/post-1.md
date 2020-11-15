@@ -11,7 +11,9 @@ description: "A press release to announce Firebreak!"
 draft: false
 ---
 
-Firebreak is a new personal finance app. Enabled by Open Banking, we allow you to manage your finances, on your device, with control over your data. 
+Firebreak is a new personal finance app. 
+
+Enabled by Open Banking, we allow you to manage your finances, on your device, with control over your data. 
 
 
 ## Introduction

@@ -14,7 +14,6 @@ Australian Competition and Consumer Commission (ACCC) (2020a) 'Accreditation Gui
 
 Australian Competition and Consumer Commission (ACCC) (2020b) 'Consumer Data Right: Overview' Youtube Video https://www.youtube.com/watch?v=nwJTSgICCSg
 
-
 Treasury (2018) 'Consumer Data Right: Overview' The Treasury, Australian Government. https://treasury.gov.au/sites/default/files/2019-09/190904_cdr_booklet.pdf
 
 Dratva, R. (2020) 'Is open banking driving the financial industry toward a true electronic market?' Electronic Markets (2020) 30:65–67 https://doi.org/10.1007/s12525-020-00403-w
