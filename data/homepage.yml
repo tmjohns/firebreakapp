@@ -45,7 +45,7 @@ service:
     # service item loop
     - title : "Easily manage your finances from your device."
       images:
-      - "images/daria-nepriakhina-_XR5rkprHQU-unsplash.jpg
+      - "images/daria-nepriakhina-_XR5rkprHQU-unsplash.jpg"
       - "images/thom-holmes-J2e34-1CVVs-unsplash.jpg"
       - "images/yura-fresh-xezXEh_fIeU-unsplash.jpg"
       content : "One app for all your accounts, loans, and investments. "
