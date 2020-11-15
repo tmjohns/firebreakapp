@@ -72,51 +72,37 @@ Firebreak App's key differentiators as we enter the market will be -
 ### PESTLE Analysis
 The PESTLE framework allows for an impact analysis across 6 key domains. 
 
-Domain | Impact
------|-----
-Political | In various forms, Open Banking has been on the political agenda in many jurisdictions across the world. The UK and EU have both adopted similar positions, and the 'Consumer Data Right' is the implementation adopted in Australia. 
-Economic | The Australian Government has required that the major banks adopt open banking, producing APIs that will allow the access we need to succeed. They are expecting significant economic growth to come from the new opportunities enabled by the Consumer Data Right. 
-Social | Currently, there are very few implementations of Open Banking / Consumer Data Right technology that have direct impact on the consumer. As such, the typical consumer is not yet aware of what these changes mean to them. As a practical implementation that offers a direct benefit, Firebreak App can pitch itself as being linked with this technology as it gains social acceptance. Consumers are also increasingly aware of the social impacts of the technology they use, and are becoming significantly more privacy conscious.
-Legal | There are significant legal guidelines being put in place to safeguard access to data made available via Consumer Data Right. To become an accredited recipient, Firebreak App will need to complete this acceditation process. 
-Technological | The smartphone has become the primary device for many people to use for managing their lives. People are accustomed to doing shopping, managing finances, paying bills etc. via their smart phones. Currently, each of these activities requires a specific, separate app, tied to the provider of their choice. Firebreak App aims to offer a platform that allows for these activities to be peformed via the same app, to allow consumers to easily manage their finances. 
-Environmental | Consumers are increasingly aware of the environmental impact of their choices. Ethical and sustaibility issues are becoming key drivers of purchasing decisions. 
+
+{{< figure src="/images/pestle.jpg">}}
+
 
 ### SWOT
 
-SWOT
+{{< figure src="/images/swot.jpg">}}
 
-Strengths | Weaknesses
------|-----
-Opportunities | Threats
+### Competitor Analysis
 
+[Frollo](https://frollo.com.au)
 
-The underlying technology -
-* Open Banking is being developed in phases - 
-    * Major banks are already online
-    * Other providers have the ability to opt in
-* Energy and Telecommunications 
+* The only non-bank accredited Consumer Data Right data recipient. 
 
-Market is ready for new entrants.
+* Enterprise focused. Primary market is access to the APIs. 
 
-Only one non-bank recipient exists already -
-https://frollo.com.au/ 
+* They offer a white label service for app developers, providing access to the APIs.
 
-* Enterprise focused.
-* Offers white label service for potential app vendors - this is an option for Firebreak. We need to do our due dilligence and determine if we can achieve our security and privacy objectives if we utilize this service. In scope for our MVP while we secure our own accredititation. 
-
-* Has own app offering that pre-dates open banking.  
-
+*This is an option for Firebreak. We need to do our due dilligence and determine if we can achieve our security and privacy objectives if we utilize this service. It is under consideration as we build our MVP while we secure our own accredititation.*
+ 
+* They also have their own consumer app offering that pre-dates open banking (using manual uploads / data scraping etc.). This app has some traction in the market, but there is scope for multiple platforms, and our commitment to consumer privacy will set us apart. 
 
 <br>
-
 
 ## Planned Operating Model
 
 As Firebreak develops, we expect to need the following resources to operate effectively. 
 
 * Core App Development Squad (8 people across development, testing, leadership) - Responsbility across app development, UI/UX, APIs.
-* Core Artificial Intelligence Squad (6 people across development - Using anonymised transaction data to produce an effective transaction 
-* DevOps (2-4 people)- to establish quality development and operational practices and support a regular release cadence. 
+* Core Artificial Intelligence Squad (6 people across development, testing, squad leaderhip. - Using anonymised transaction data to produce an effective transaction classifier that can run on device. 
+* DevOps (2-4 people) - to establish quality development and operational practices and support our planned regular release cadence. 
 * IT Architect (1-2 people) - to provide leadership and set the direction for the underlying technologies we use.
 * Security Engineer (1-2 people) - to ensure we exceed the rigorous security standards we set for ourselves.
 * Marketing, HR, Corporate Governance functions to support a team of between 30 and 40 people. 

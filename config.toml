@@ -99,7 +99,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 #footer_menu_left = "Company"
 #footer_menu_middle = "Product"
 #footer_menu_right = "Support"
-footer_content = "Firebreak is an academic exercise in developing an innovation, prepared as coursework for the Grad. Certificate in IT (Executive) at UniMelb."
+footer_content = "Firebreak is an academic exercise in developing an innovation, prepared as coursework for the Grad. Cert. in IT (Executive) at UniMelb."
 # copyright
 copyright = "(c) 2020 by Tim Johns."
 
