@@ -1,7 +1,7 @@
 ####################### Banner #########################
 banner:
   title : "A new way to manage <br> your personal finances."
-  image : "images/firebreak-design.png"
+  image : "images/design.png"
   content : "Leveraging Open Banking and Artificial Intelligence, Firebreak App puts you in control. <br> Securely import and analyse your financial data. <br> Effortlessly set budgets and savings targets. <br> Compare products and ensure your services are working for you."
   button:
     enable : false
