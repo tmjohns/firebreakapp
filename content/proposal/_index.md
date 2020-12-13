@@ -28,20 +28,36 @@ We will also focus on developing effective and appropriate visualisations to hel
 
 Our accredited financial advice consultants are working with us to embed best practice money management techniques within our simple app workflow. 
 
-< Open Innovation Diagram >
-
 Customers of second-tier banks will need to wait until June/July for their providers to come online. We expect to exit public beta shortly after this, as this will mean enough providers are available for us to deliver the integrated experience our customers expect. Our pace of delivery will continue, as we mature our core product before focusing on the availability of our premium features. 
 
 ## Market Analysis
 
-Increasingly, the primary channel for banking activity is via a mobile device. However, customers are still strongly tied to the app produced by their bank. For customers with multiple accounts at multiple banks, it can be very difficult to get a clear view of your whole position. Firebreak will change this. 
+**"In 2019, over 64% of Australians used DIY options like mobile or internet banking."** (Roy Morgan, 2019). 
 
- 
+This represents at least 16 million potential customers for Firebreak, a number which we expect to continue to grow as customers and providers continue to evolve. 
+
+With a very large (and continually growing) market for mobile banking, the launch of Open Banking presents a unique opportunity for disruption.
+
+**"They are more than simply banking apps."**
+**"Entire financial suite-of-micro apps delivered within one app, where people can manage all aspects of their financial lives."**
+(Mozo, 2019)
+
+Motivated consumers will pick and choose accounts, products, insurances and investments from a range of providers to develop an individual portfolio that perfectly suits their needs. In the current app landscape, this means that consumers must flick between the app from each provider, manually moving data between each one. Open banking enables a new, integrated approach.
+
+**"delivery of individualised spending notifications, budget suggestions and saving nudges all driven by machine learning will separate the great from the good of banking apps."** (Mozo, 2019)
+
+Firebreak is already hard at work producing a machine learning model to perform on device categorisation and analysis. By running this analysis on the device, we can ensure that neither Firebreak, or anyone else, needs access to the consumers data once they have it on their device. This keeps it private and secure. 
+
+**"Via Open Banking, we should be moving to a world where a great banking app covers more than just money."** (Mozo, 2019)
+
+Firebreak will launch energy and telecommunications providers in line with the Open Banking roadmap. We will also be exploring opportunities to integrate with other relvant industries to continously iterate and produce an app that allows both money and lifestyle management. 
+
+
 ## Funding
 
 We are a small team, developing Firebreak as a start-up venture.
 
-•	The core of Firebreak will be available for free. 
+* **The core of Firebreak will be available for free.**
 
 We firmly believe it is important to build financial literacy across all levels of society and want everyone to be able to benefit from our application. 
 
@@ -64,3 +80,9 @@ We will need senior people to provide advice and oversight as we execute on our 
 With appropriate funding, we would scale the size of our development team to accelerate the iterative development of the app. With scale, we would expect to formalise these relationships and establish a corporate structure, board oversight and formal reporting lines, prior to the general release of the App.
 
 We are also interested in developing a relationship with a reputable financial media outlet, where we can distribute financial news and content as a premium perk within our app. 
+
+## Conclusion
+
+The imminent launch of Open Banking access to account and transaction data held by the big 4 banks presents a unique opportunity to iteratively develop an integrated money management app. Advances in smartphone technology and in artificial intelligence / machine learning mean that it is now possible to run the analysis that supports Firebreak App in a secure way on a consumers own device. The pieces are aligned. 
+
+The team at Firebreak are ready to capitalize on this opportunity. 
