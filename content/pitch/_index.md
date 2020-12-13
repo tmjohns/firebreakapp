@@ -6,7 +6,16 @@ description: "Firebreak Pitch"
 draft: false
 ---
 
- ## What?
+# Pitch
+
+{{< video src="Firebreak in 3 Minutes.mp4" controls=
+yes">}}
+
+[Slides](slides.pptx)
+
+
+
+ ## What is Firebreak?
 
 A money management app, enabled by artificial intelligence and open banking. 
 
