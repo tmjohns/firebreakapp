@@ -18,8 +18,8 @@ It is now possible to integrate all your banking data in one place, regardless o
 
 To ensure that we can deliver the best app for you, we will be going live with a public beta as soon as we can. Our initial requirement is to have data connectivity with the 4 major banks. This will be available in early 2021, according to the mandated timelines for Open Banking. Customers of these banks are invited to register for the public beta immediately. During the public beta we will be actively seeking customer feedback on the features and performance of the app.
 
-{{< figure src="MVP.jpg" title="MVP Iterations">}}
-Based on (Blank, 2013)
+{{< figure src="MVP.jpg" >}}
+Based on (Blank, 2013).
 
 To allow us to launch our public beta, we have chosen to leverage Frollo’s white label service to access the Open Banking API’s while we complete the due diligence process and gain our own accreditation. This will allow us to build out our app and deliver our MVP earlier. 
 
